@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+    margin: 100px;
+    height: 100px;
+    background-color: rgb(81, 81, 81);
+    justify-content: center;
+    border: 1px solid aqua;
+    align-items: flex-end;
+}
+.container>div{
+margin: 0px 3px 0px 0px;
+width: 100px;
+color: white;
+line-height: 50px;
+
+
+}
+#a{
+    
+    width: 80px;
+    height: 40px;
+    background-color: orangered;
+    text-align: center;
+}
+#b{
+    
+    width: 80px;
+    height: 60px;
+    background-color: orangered;
+    text-align: center;
+}
+#c{
+    
+    width: 80px;
+    height: 70px;
+    background-color: orangered;
+    text-align: center;
+}
+#d{
+    
+    width: 80px;
+    height: 40px;
+    background-color: orangered;
+    text-align: center;
+}
+#e{
+    
+    width: 80px;
+    height: 55px;
+    background-color: orangered;
+    text-align: center;
+}

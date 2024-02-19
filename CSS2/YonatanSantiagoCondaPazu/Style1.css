@@ -1,0 +1,43 @@
+.container{
+display: flex;
+flex-direction: column;
+background-color: rgb(30, 27, 27);
+align-items: flex-end;
+border: 1px solid rgb(0, 255, 204) ;
+}
+.container >div {
+    
+    margin: 5px;
+    background-color:red;
+    color:blanchedalmond;
+   line-height: 50px ;
+   font-size: 25px;
+   
+}
+#a{
+    width: 100px;
+   height: 50px;
+   text-align: center;
+}
+#b{
+    width: 140px;
+    height: 50px;
+    text-align: center;
+}
+#c{
+    width: 175px;
+    height: 50px;
+    text-align: center;
+}
+#d{
+    width: 70px;
+    height: 50%;
+    text-align: center;
+}
+#e{
+    width: 95px;
+    height: 50%;
+    text-align: center;
+}
+
+

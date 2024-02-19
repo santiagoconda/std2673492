@@ -1,0 +1,53 @@
+
+.container{
+   
+    width: 400px;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 3px;
+    flex-direction: column;
+    color: white;
+
+    align-items: center;
+
+}
+.container>div{
+    
+    text-align: center;
+    line-height: 75px;
+    
+    
+}
+#b{
+    
+    width: 390px;
+    margin: 6px 0px 0px 0px ;
+    background-color: red;
+}
+   
+#c{
+width: 390px;
+background-color: orangered;
+}
+#d{
+    width: 390px;
+    margin: 0px 0px 6px 0px;
+    background-color: rosybrown;
+}
+#a{
+    width: 400px;
+    margin: 0px 0px 6px 0px;
+    color: white;
+    border-radius: 3px ;
+    text-align: center;
+    background-color: green;
+}
+#e{
+    width: 400px;
+    margin: 6px 0px 0px 0px ;
+    color: white;
+    border-radius: 3px;
+    text-align: center;
+    background-color: blue;
+
+}

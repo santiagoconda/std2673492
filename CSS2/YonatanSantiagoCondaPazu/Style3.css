@@ -1,0 +1,36 @@
+.container{
+    display: flex;
+    margin: 100 px;
+    justify-content: center;
+    border: 1px solid;
+    align-items: center;
+}
+.container>div{
+    margin: 5px;
+    width: 100px;
+    line-height: 200px;
+}
+#a{
+    width: 100px;
+    height: 200px;
+    background-color:orangered;
+    text-align: center;
+}
+#b{
+    width: 100px;
+    height: 200px;
+    background-color:rgb(154, 35, 35);
+    text-align: center;
+}
+#c{
+width: 100px;
+height: 200px;
+background-color: blueviolet;
+text-align: center;
+}
+#d{
+    width: 100px;
+    height: 200px;
+    background-color: green;
+    text-align: center;
+}

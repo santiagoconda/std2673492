@@ -1,0 +1,49 @@
+#a{
+
+    height: 25px;
+    background-color: green;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+.container{
+    height: 150px;
+    display: flex;
+    text-align: center;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 3px;
+    justify-content: center;
+    align-items: center;
+}
+.container>div{
+    margin: 0px 20px 0px 10px;
+    width: 200px;
+  
+    line-height: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+#b{
+    width: 200px;
+    background-color: red ;
+    text-align: center;
+}
+#c{
+    width: 200px;
+    background: orangered;
+    text-align: center;
+}
+#d{
+    width: 200px;
+background-color: rosybrown;
+text-align: center;
+}
+#e{
+height: 25px;
+background-color: aqua;
+color: white;
+text-align: center;
+border-radius: 5px;
+}
