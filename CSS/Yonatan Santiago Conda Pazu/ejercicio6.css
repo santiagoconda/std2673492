@@ -1,0 +1,21 @@
+.tex2{
+    color: rgb(193, 135, 135);
+    text-shadow: 3px 0px 10px  red;
+
+    
+}
+.tex{
+    color: black;
+    text-shadow: -1px 4px 3px blue,1px -4px 3px red,
+    1px -3px 3px yellow, -2px -2px 2px green;
+    
+}
+.tex4{
+    color: white;
+    background-color: gray;
+    
+    
+
+
+   
+}

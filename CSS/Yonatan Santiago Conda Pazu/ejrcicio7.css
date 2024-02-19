@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    min-height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.red{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.blue{
+    width: 100px ;
+    height: 100px;
+    position: relative;
+    top: 30%;
+    left: 40%;
+    background-color: blue;
+    display: flex;
+  
+}
+.gren{
+    width: 100px;
+    height: 100px;;
+    position: relative;
+    background-color: green;
+    top: 30%;
+    left: 40%;
+    display: flex;
+    justify-content: center;
+    
+}
