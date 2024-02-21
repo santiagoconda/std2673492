@@ -1,0 +1,31 @@
+.navbar-bran{
+  align-items: center;
+}
+.imagen{
+    align-items: center;
+    position: absolute;
+   
+}
+.bg.image{
+
+  align-items: center;
+    
+}
+.container{
+  display: flex;
+  flex-direction: column;
+}
+h1{
+  color: white;
+}
+p{
+  color: white;
+}
+#ab{
+  
+  background-color: aqua;
+}
+#cd{
+  color: black;
+}
+
