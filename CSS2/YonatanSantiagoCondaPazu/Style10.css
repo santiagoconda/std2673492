@@ -1,0 +1,25 @@
+
+.Container{
+    width: auto;
+ 
+    display: flex;
+    flex-wrap: wrap ;
+    background-color:antiquewhite;
+    align-items: center;
+
+}
+.Container>div{
+    border-radius: 5px;
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+}
+.a{
+width: 200px;
+}
+.b{
+    display: inline-block;
+    height: 200px;
+    justify-content: right;
+    transform: rotate(180deg);
+}
